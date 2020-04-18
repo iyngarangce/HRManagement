@@ -1,0 +1,8 @@
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\bin\Debug\netstandard2.0\HRManagement.Helper.deps.json
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\bin\Debug\netstandard2.0\HRManagement.Helper.dll
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\bin\Debug\netstandard2.0\HRManagement.Helper.pdb
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\HRManagement.Helper.csproj.CoreCompileInputs.cache
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\HRManagement.Helper.AssemblyInfoInputs.cache
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\HRManagement.Helper.AssemblyInfo.cs
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\HRManagement.Helper.dll
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\HRManagement.Helper.pdb

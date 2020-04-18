@@ -1,0 +1,12 @@
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\bin\Debug\netstandard2.0\HRManagement.Model.deps.json
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\bin\Debug\netstandard2.0\HRManagement.Model.dll
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\bin\Debug\netstandard2.0\HRManagement.Model.pdb
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\bin\Debug\netstandard2.0\HRManagement.Helper.dll
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\bin\Debug\netstandard2.0\HRManagement.Helper.pdb
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\obj\Debug\netstandard2.0\HRManagement.Model.csprojAssemblyReference.cache
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\obj\Debug\netstandard2.0\HRManagement.Model.csproj.CoreCompileInputs.cache
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\obj\Debug\netstandard2.0\HRManagement.Model.AssemblyInfoInputs.cache
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\obj\Debug\netstandard2.0\HRManagement.Model.AssemblyInfo.cs
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\obj\Debug\netstandard2.0\HRManagement.Model.csproj.CopyComplete
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\obj\Debug\netstandard2.0\HRManagement.Model.dll
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.Model\obj\Debug\netstandard2.0\HRManagement.Model.pdb

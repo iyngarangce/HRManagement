@@ -1,0 +1,8 @@
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\bin\Debug\netstandard2.0\Helper.deps.json
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\bin\Debug\netstandard2.0\Helper.dll
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\bin\Debug\netstandard2.0\Helper.pdb
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\Helper.csproj.CoreCompileInputs.cache
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfoInputs.cache
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfo.cs
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\Helper.dll
+C:\DhineshP\Code\EmployeeAPI\WebApplication1\Helper\obj\Debug\netstandard2.0\Helper.pdb
