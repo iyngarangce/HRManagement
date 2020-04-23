@@ -9,7 +9,7 @@ using HRManagement.Helper;
 
 namespace HRManagement.Model.Employee
 {
-    public class Employee
+    public class Employee : Payroll
     {
         [Required]
         public string Name { get; set; }
@@ -28,7 +28,7 @@ namespace HRManagement.Model.Employee
         [Required]
         public EmployeeType EmployeeType { get; set; }
 
-        public virtual decimal CalculateSalary()
+        public override decimal CalculateSalary()
         {
             return 2 * BasicPay;
         }
