@@ -8,7 +8,6 @@ using Newtonsoft.Json;
 
 namespace HRManagement.DTO
 {
-    [DataContract]
     public class EmployeeDTO
     {
         public string Name { get; set; }

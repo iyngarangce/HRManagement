@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Threading.Tasks;
 
 using HRManagement.Helper;
 
 namespace HRManagement.Model.Employee
 {
+
+    [DataContract]
     public class Employee : Payroll
     {
         [Required]
@@ -23,7 +26,6 @@ namespace HRManagement.Model.Employee
 
         [Required]
         public decimal BasicPay { get; set; }
-        public decimal Salary { get; set; }
 
         [Required]
         public EmployeeType EmployeeType { get; set; }

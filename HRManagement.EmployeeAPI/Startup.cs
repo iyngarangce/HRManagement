@@ -17,7 +17,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Configuration;
 using Newtonsoft.Json;
+using Serilog;
 
 namespace HRManagement.EmployeeAPI
 {
@@ -51,7 +53,7 @@ namespace HRManagement.EmployeeAPI
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory logger)
         {
             if (env.IsDevelopment())
             {
@@ -60,9 +62,12 @@ namespace HRManagement.EmployeeAPI
             else
             {
                 var Response = new HttpResponseMessage() { StatusCode = System.Net.HttpStatusCode.NotFound };
-
                 //app.UseExceptionHandler("/error");
             }
+
+            app.UseStatusCodePagesWithReExecute("{statuscode}");
+
+            app.UseMiddleware(typeof(ErrorHandlingMiddleware));
 
             //app.UseExceptionHandler(a => a.Run(async context =>
             //{
@@ -86,8 +91,6 @@ namespace HRManagement.EmployeeAPI
             app.UseRouting();
 
             app.UseAuthorization();
-
-            app.UseMiddleware(typeof(ErrorHandlingMiddleware));
 
             app.UseEndpoints(endpoints =>
             {

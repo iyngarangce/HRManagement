@@ -10,3 +10,15 @@ C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.DTO\obj\Debug\netstand
 C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.csproj.CopyComplete
 C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.dll
 C:\DhineshP\Code\EmployeeAPI\WebApplication1\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.pdb
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\bin\Debug\netstandard2.0\HRManagement.DTO.deps.json
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\bin\Debug\netstandard2.0\HRManagement.DTO.dll
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\bin\Debug\netstandard2.0\HRManagement.DTO.pdb
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\bin\Debug\netstandard2.0\HRManagement.Helper.dll
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\bin\Debug\netstandard2.0\HRManagement.Helper.pdb
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.csprojAssemblyReference.cache
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.csproj.CoreCompileInputs.cache
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.AssemblyInfoInputs.cache
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.AssemblyInfo.cs
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.csproj.CopyComplete
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.dll
+C:\DhineshP\Code\EmployeeAPI\HRManagement\HRManagement.DTO\obj\Debug\netstandard2.0\HRManagement.DTO.pdb
